@@ -47,7 +47,7 @@ If you want to build the package yourself from source:
    dpkg-deb --build mindful_tube_pkg
    sudo apt install ./mindful_tube_pkg.deb
 
-   Or curl -sSL https://raw.githubusercontent.com/timmylockley/Mindful-Tube/main/mindful_tube_install.sh | bash
+Or curl -sSL https://raw.githubusercontent.com/timmylockley/Mindful-Tube/main/mindful_tube_install.sh | bash
 
 ---
 
